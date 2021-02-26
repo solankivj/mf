@@ -1,0 +1,3 @@
+export default {
+  GET_STAR_WARS_FILMS_SUCCESS: 'GET_STAR_WARS_FILMS_SUCCESS',
+};
